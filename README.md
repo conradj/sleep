@@ -5,12 +5,7 @@ sleep
 
 [Most babies do not show any predictability during the first 2/3 months][1]
 
-### Sleep times for consistently well rested babys. Not normal, but a guide
-2. [Max wake time of 0.75 hours, increasing to 1.5 hours at 3 months][2]
-3. [Avg. daily sleep requirement 16-20 hours reducing to 15.5-18 hours at 3 months][2]
-4. [4 ish naps, limited to 3 hours max (I wish!)][2]
-
-### Further timing information
+### Timing information
 1. [Newborns typically have a late bedtime (anywhere between 9-11pm) but it gradually shifts earlier from 7/8 weeks][1]
 2. [Newborns take 20 minutes to go into a deep sleep.][4]
 
@@ -46,11 +41,19 @@ smell of parent?
 5. [Recommended response time for night wakes is 10 minutes][2]
 
 
+### Reference Sleep times for consistently well rested babys. Not normal, but a guide
+2. [Max wake time of 0.75 hours, increasing to 1.5 hours at 3 months][2]
+3. [Avg. daily sleep requirement 16-20 hours reducing to 15.5-18 hours at 3 months][2]
+4. [4 ish naps, limited to 3 hours max (I wish!)][2]
+
+
+### Other
+1. Ensure a well lit room during the day - open all blinds etc if possible. Dark or dim room at night.
+
+
 [1]:  http://community.babycenter.com/post/a525805/how_to_maximize_a_babys_sleep_0-4mths  "Baby Center How to Maximize a Baby's Sleep (0-4mths)"
 [2]:  https://docs.google.com/document/d/11GHo4keUb2TVJUlSL1kD6HQcEgaNFBmzoQoOzcpcyas/mobilebasic?authkey=CPXE1bsO&pli=1&hl=en# "Baby Sleep Chart"
 [3]: http://parenting.stackexchange.com/a/5662/7304 "5 s's"
 [4]: http://parenting.stackexchange.com/a/10664/7304 "Sleep transition timing" 
 [5]: http://parenting.stackexchange.com/a/5100/7304 "Sleep feeding unlatch (point 5)"
-### Other
-1. Ensure a well lit room during the day - open all blinds etc if possible. Dark or dim room at night.
-2. 
+
