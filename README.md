@@ -33,6 +33,11 @@ Co-sleep
 Co-share
 
 #### Sleep associations
+white noise
+soft toy/blanky etc
+dark room
+smell of parent?
+
 
 #### Sleep feeding
 [If the baby is sleeping, it is ok to unlatch the baby and put them down for a nap][5] (point 5)
